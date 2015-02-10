@@ -1,0 +1,5 @@
+applications:
+- services:
+  - qa-service
+  name: [app_name]
+  command: node index.js
